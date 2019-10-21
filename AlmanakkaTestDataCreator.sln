@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmanakkaTestDataCreator.NETCore", "AlmanakkaTestDataCreator.NETCore\AlmanakkaTestDataCreator.NETCore.csproj", "{A25AC399-D615-497A-BC37-CD1FB238E729}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmanakkaTestDataCreator.NETStandard", "AlmanakkaTestDataCreator.NETStandard\AlmanakkaTestDataCreator.NETStandard.csproj", "{50DB5B82-81EB-4997-9BC8-11978AD6BD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlmanakkaTestDataCreator.Test", "AlmanakkaTestDataCreator.Test\AlmanakkaTestDataCreator.Test.csproj", "{3B2877DB-656A-4CAE-8EA9-598BBC7AA1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25AC399-D615-497A-BC37-CD1FB238E729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25AC399-D615-497A-BC37-CD1FB238E729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25AC399-D615-497A-BC37-CD1FB238E729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25AC399-D615-497A-BC37-CD1FB238E729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50DB5B82-81EB-4997-9BC8-11978AD6BD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DB5B82-81EB-4997-9BC8-11978AD6BD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DB5B82-81EB-4997-9BC8-11978AD6BD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DB5B82-81EB-4997-9BC8-11978AD6BD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2877DB-656A-4CAE-8EA9-598BBC7AA1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2877DB-656A-4CAE-8EA9-598BBC7AA1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2877DB-656A-4CAE-8EA9-598BBC7AA1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2877DB-656A-4CAE-8EA9-598BBC7AA1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
